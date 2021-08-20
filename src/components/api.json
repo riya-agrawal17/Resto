@@ -1,6 +1,90 @@
 {
-  "posts": [{ "name": "john", "email": "john@gmail.com", "pass": "abcds" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "admin": [{ "name": "riya", "email": "riya@gmail.com" }],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1,
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "abcds"
+    },
+    {
+      "id": 2,
+      "name": "riya",
+      "email": "riya@gmail.com",
+      "password": "abc"
+    },
+    {
+      "name": "riiiyyaa",
+      "email": "riiyya@asd.com",
+      "password": "qwerty",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@test.com",
+      "password": "asdfg",
+      "id": 4
+    },
+    {
+      "name": "sunita",
+      "email": "sunita@sdf.com",
+      "password": "dfgh",
+      "id": 5
+    },
+    {
+      "name": "uttt",
+      "email": "zxcvb@asdf.com",
+      "password": "lkjhgfd",
+      "id": 6
+    },
+    {
+      "name": "vvb",
+      "email": "bnnn",
+      "password": "jjjjj",
+      "id": 7
+    },
+    {
+      "name": "vbnm",
+      "email": "ghjk@qwe.bn",
+      "password": "hjkl",
+      "id": 8
+    },
+    {
+      "name": "zxcvghj",
+      "email": "yhjk@asdf.bn",
+      "password": "sdfghjk",
+      "id": 9
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Noida sector 99",
+      "contact": 11111,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Domino's",
+      "contact": 111222,
+      "address": "Gurgaon sector 50"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 33333222,
+      "address": "New Delhi sector 29"
+    },
+    {
+      "name": "Pizza hut",
+      "contact": 111999,
+      "address": "Kolkata sector 19",
+      "id": 4
+    },
+    {
+      "name": "Starbucks",
+      "address": "Delhi Saket 2",
+      "contact": "34567899",
+      "id": 5
+    }
+  ]
 }
