@@ -1,0 +1,6 @@
+{
+  "posts": [{ "name": "john", "email": "john@gmail.com", "pass": "abcds" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "admin": [{ "name": "riya", "email": "riya@gmail.com" }],
+  "profile": { "name": "typicode" }
+}
